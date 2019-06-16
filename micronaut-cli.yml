@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.conference
+---
+testFramework: junit
+sourceLanguage: java
