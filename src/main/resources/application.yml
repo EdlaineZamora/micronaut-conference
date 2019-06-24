@@ -1,3 +1,9 @@
 micronaut:
   application:
     name: micronaut-conference
+
+rabbitmq:
+  uri: amqp://localhost:5675
+  username: user
+  password: testpassword
+  virtual-host: micronaut
